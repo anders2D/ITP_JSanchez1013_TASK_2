@@ -15,7 +15,7 @@ Proporciona una descripción clara y detallada del error de configuración que e
 1. Paso 1
 2. Paso 2
 3. Paso 3
-4. ...
+4. etc
 
 **Comportamiento Esperado:**
 
